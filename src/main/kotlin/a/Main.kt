@@ -1,3 +1,5 @@
+package a
+
 import kotlin.properties.ReadOnlyProperty
 
 fun main() {
